@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="49666" started-at="2022-08-29T19:37:11 IST" finished-at="2022-08-29T19:38:01 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="49666" started-at="2022-08-29T19:37:11 IST" finished-at="2022-08-29T19:38:01 IST">
+      <class name="DEMO_001_GET">
+        <test-method status="PASS" signature="getEmployee()[pri:0, instance:DEMO_001_GET@cb51256]" name="getEmployee" duration-ms="48743" started-at="2022-08-29T19:37:12 IST" finished-at="2022-08-29T19:38:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getEmployee -->
+      </class> <!-- DEMO_001_GET -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
